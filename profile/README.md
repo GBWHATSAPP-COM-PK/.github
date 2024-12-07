@@ -1,13 +1,12 @@
-Here’s the revised version of the content with emojis for an engaging and visually appealing presentation:  
-
----
-
 # 🌟 **Understanding GBWhatsApp APK: Features, Benefits, and Risks** 🌟
 
 ## 🛠️ **Overview**  
 GBWhatsApp APK is an **unofficial** version of WhatsApp, packed with exciting features not available in the official app. With advanced customization 🎨, privacy controls 🔒, and enhanced file-sharing 📂, it’s designed for users seeking more control and flexibility in their messaging experience. However, it comes with its own set of **risks** ⚠️, which you must consider before using.  
 
 ---
+## Official Website 🌐  
+For the latest updates and secure downloads, visit our [official website](https://gbwhattsapp.com.pk).  
+
 
 ## 🔑 **Key Features**  
 
